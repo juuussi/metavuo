@@ -1,4 +1,6 @@
 # Metavuo
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjuuussi%2Fmetavuo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjuuussi%2Fmetavuo?ref=badge_shield)
+
 
 Metavuo is a platform for managing metabolomics projects. Metavuo is developed by University of Eastern Finland in collaboration with Solita Ltd.
 
@@ -106,3 +108,6 @@ For github issue tracker use `Resolves`, `Fixes` or `Closes` depending on the is
 
 Metavuo is open-source and licensed with the MIT License.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjuuussi%2Fmetavuo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjuuussi%2Fmetavuo?ref=badge_large)
